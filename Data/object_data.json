@@ -9,7 +9,7 @@
     },
     "clickOnSearch": {
         "locatorType": "xpath",
-        "locatorValue": "//div[@class='_3005Xc']/input[@name='q']"
+        "locatorValue": "//div[@class='_3OO5Xc']/input[@name='q']"
     },
     "clickOnfAssured": {
         "locatorType": "xpath",
@@ -33,6 +33,6 @@
     },
     "selectSpiderMan": {
         "locatorType": "xpath",
-        "locatorValue": "//a[text()='Marvel's Spider-Man: Miles Morales']"
+        "locatorValue": "//a[text()='Marvel’s Spider-Man: Miles Morales']"
     }
 }
